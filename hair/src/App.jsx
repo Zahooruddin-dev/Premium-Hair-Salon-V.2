@@ -684,7 +684,7 @@ export default function App() {
 
       <footer className="footer" role="contentinfo">
         <p>
-          © {new Date().getFullYear()} Salon Demo • FX via exchangerate.host • Built with React —
+          © {new Date().getFullYear()} Salon Demo • FX via exchangerate.host Mizuka AKA Muhammad Zahooruddin Nizamani• Built with React —
           {" "}
           <span className="muted">no backend</span>
         </p>
